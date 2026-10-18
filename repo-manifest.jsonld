@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/docopt/docopt/commit/8fea867d4220f1095dae9d6264ec5aa4031fb712",
       "git:hexsha": "8fea867d4220f1095dae9d6264ec5aa4031fb712",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T04:13:18.468641+00:00"
     },
     {
       "@id": "https://repolex.ai/r/docopt/docopt/commit/387ccebcad588a6207c7b122cf500c97634f46d2",
